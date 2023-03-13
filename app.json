@@ -18,6 +18,6 @@
     }
   ],
   "scripts": {
-    "postdeploy": "pip3 install -r requirements.txt && python3 -m bot"
+    "postdeploy": "python3 -m bot"
   }
 }
