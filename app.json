@@ -3,13 +3,7 @@
   "description": "Your app description",
   "repository": "https://github.com/whatthejames/stable-diffusion-anime-telegram.git",
   "env": {
-    "APP_ENV": {
-      "description": "Set the application environment",
-      "value": "production"
-    },
-    "PYTHONPATH": {
-      "description": "Python path",
-      "value": "."
+
     }
   },
   "buildpacks": [
